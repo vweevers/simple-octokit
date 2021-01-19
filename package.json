@@ -1,6 +1,6 @@
 {
   "name": "simple-octokit",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Preconfigured GitHub API client with GraphQL and REST",
   "license": "MIT",
   "author": "Vincent Weevers",
