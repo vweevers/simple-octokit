@@ -17,7 +17,7 @@
   "dependencies": {
     "@octokit/core": "^3.2.4",
     "@octokit/plugin-paginate-rest": "^2.6.2",
-    "@octokit/plugin-rest-endpoint-methods": "^4.4.1",
+    "@octokit/plugin-rest-endpoint-methods": "^5.11.4",
     "@octokit/plugin-retry": "^3.0.6",
     "@octokit/plugin-throttling": "^3.3.4",
     "auto-http-agent": "^1.0.0"
